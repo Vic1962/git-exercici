@@ -1,3 +1,9 @@
+
 1-aquest és el primer exercici amb git
 
 2-ara torno a afegir un comentari des de la banca master, després de fer-ho al  branch1
+
+aquest és el primer exercici amb git
+
+ara faig un comentari desde branch1
+
