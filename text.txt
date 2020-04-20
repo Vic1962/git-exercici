@@ -1,0 +1,1 @@
+aquest és el primer exercici amb git
